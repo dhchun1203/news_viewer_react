@@ -1,3 +1,6 @@
+# Newsapi changed their pricing model.
+
+You can't make requests from the browser anymore. this project only active on local fetch it and yarn start
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
